@@ -58,7 +58,7 @@ namespace LibraryServices
 
         public void MarkFound(int assetId)
         {
-            var now = DateTime.Now;
+            var now = DateTime.UtcNow;
            
             UpdateAssetStatus(assetId, "Available");
             RemoveExistingCheckouts(assetId);
@@ -110,7 +110,7 @@ namespace LibraryServices
 
         public void PlaceHold(int assetId, int libraryCardId)
         {
-            var now = DateTime.Now;
+            var now = DateTime.UtcNow;
 
             var asset = _context.LibraryAssets
                 .Include(a => a.Status)
@@ -137,7 +137,7 @@ namespace LibraryServices
 
         public void CheckInItem(int assetId)
         {
-            var now = DateTime.Now;
+            var now = DateTime.UtcNow;
 
             var item = _context.LibraryAssets
                 .FirstOrDefault(a => a.Id == assetId);
@@ -199,7 +199,7 @@ namespace LibraryServices
                 .Include(card => card.Checkouts)
                 .FirstOrDefault(card => card.Id == libraryCardId);
 
-            var now = DateTime.Now;
+            var now = DateTime.UtcNow;
 
             var checkout = new Checkout
             {

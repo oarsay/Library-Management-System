@@ -60,8 +60,8 @@ namespace LibraryServices
 
         public bool IsBranchOpen(int branchId)
         {
-            var currentTimeHour = DateTime.Now.Hour;
-            var currentDayOfWeek = (int)DateTime.Now.DayOfWeek;
+            var currentTimeHour = DateTime.UtcNow.Hour;
+            var currentDayOfWeek = (int)DateTime.UtcNow.DayOfWeek - 1;
             var hours = _context.BranchHours.Where(h => h.Branch.Id == branchId);
             var daysHours = hours.FirstOrDefault(h => h.DayOfWeek == currentDayOfWeek);
 
