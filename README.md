@@ -22,10 +22,10 @@ In the making of this project, I followed [Wes Doyle](github.com/wesdoyle)'s gre
 [(Youtube) ASP.NET Core Web Application Tutorial](https://www.youtube.com/watch?v=WTVcLFTgDqs)
 
 
-## Ekran Görüntüleri
+## Screen Shots
 
 ### Home Page
-![Home Page](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
+![Home Page](https://raw.githubusercontent.com/oelkapmis/Library-Management-System/blob/master/Screen%20Shots/Home%20Page.png)
 ___
 
 ### Library Catalog
