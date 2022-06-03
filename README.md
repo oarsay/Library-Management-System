@@ -25,26 +25,26 @@ In the making of this project, I followed [Wes Doyle](github.com/wesdoyle)'s gre
 ## Screen Shots
 
 ### Home Page
-![Home Page](https://raw.githubusercontent.com/oelkapmis/Library-Management-System/blob/master/Screen%20Shots/Home%20Page.png)
+![Home Page](Screenshots/Home-Page.png)
 ___
 
 ### Library Catalog
 
-![Library Catalog](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
+![Library Catalog](Screenshots/Book-List.png)
 ___
 
 ### Book Detail Page
-![Book Detail Page](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
+![Book Detail Page](Screenshots/Book-Detail.png)
 ___
 
 ### Patrons
-![Patrons](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
+![Patrons](Screenshots/Patrons.png)
 ___
 
 ### Branches
-![Branches](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
+![Branches](Screenshots/Branches.png)
 ___
 
 ### Branch Detail Page
-![Branch Detail Page](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
+![Branch Detail Page](Screenshots/Branch-Detail-Page.png)
 ___
