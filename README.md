@@ -1,3 +1,4 @@
+___
 
 # Lightweight Library Management System
 
@@ -20,30 +21,30 @@ In the making of this project, I followed [Wes Doyle](github.com/wesdoyle)'s gre
 
 [(Youtube) ASP.NET Core Web Application Tutorial](https://www.youtube.com/watch?v=WTVcLFTgDqs)
 
-  
+
 ## Ekran Görüntüleri
 
 ### Home Page
-![Home Page](https://i.ibb.co/M1XvXLQ/Home-Page.png)
+![Home Page](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
 ___
 
 ### Library Catalog
 
-![Library Catalog](https://i.ibb.co/WKz9dXm/Book-List.png)
+![Library Catalog](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
 ___
 
 ### Book Detail Page
-![Book Detail Page](https://i.ibb.co/hdMkJT1/Book-Detail.png)
+![Book Detail Page](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
 ___
 
 ### Patrons
-![Patrons](https://i.ibb.co/3y7B4mp/Patrons.png)
+![Patrons](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
 ___
 
 ### Branches
-![Branches](https://i.ibb.co/0f4KzBp/Branches.png)
+![Branches](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
 ___
 
 ### Branch Detail Page
-![Branch Detail Page](https://i.ibb.co/dt8CQHc/Branch-Detail-Page.png)
+![Branch Detail Page](https://drive.google.com/drive/u/0/folders/1I4WYxtSz6ThAcuJaXkym3v_cPWq5Yxa2)
 ___
