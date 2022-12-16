@@ -15,7 +15,7 @@ A web application for library management.
   
 ## Based On
 
-In the making of this project, I followed [Wes Doyle](github.com/wesdoyle)'s great tutorial and customized it a little bit
+In the making of this project, I followed [Wes Doyle](https://github.com/wesdoyle)'s great tutorial and customized it a little bit
 
 [Github repository of the original project](https://github.com/wesdoyle/lightlib-lms)
 
